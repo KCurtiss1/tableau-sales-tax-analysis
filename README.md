@@ -50,7 +50,7 @@ The analysis was designed to answer several key questions:
 Data cleaning and transformation were performed using **Tableau Prep Builder**.  
 The workflow included joining datasets, cleaning inconsistent values, and preparing the final dataset used in the Tableau dashboard.
 
-![Tableau Prep Flow](images/prep_builder.png)
+![Tableau Prep Flow](images/prep_builder_1.png)
 
 ---
 
