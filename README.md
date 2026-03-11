@@ -45,6 +45,14 @@ The analysis was designed to answer several key questions:
 - How sensitive is profit to **sales growth, tax rates, and nexus rules**?
 
 ---
+## Data Preparation
+
+Data cleaning and transformation were performed using **Tableau Prep Builder**.  
+The workflow included joining datasets, cleaning inconsistent values, and preparing the final dataset used in the Tableau dashboard.
+
+![Tableau Prep Flow](images/prep_builder.png)
+
+---
 
 ## Tableau Dashboard
 The dashboards integrate the analysis into an interactive decision-support tool.
