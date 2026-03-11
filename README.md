@@ -1,5 +1,7 @@
 # E-Commerce Sales Tax Nexus & Profitability Dashboard
 
+![Dashboard Preview](images/tableau_dashboard_1.png)
+
 ## Project Overview
 This project analyzes **Trina’s Trinkets’ 2017 sales data** to evaluate sales tax obligations and profitability across multiple states. The analysis focuses on understanding how the **South Dakota v. Wayfair (2018)** decision impacts tax exposure for an online retailer.
 
@@ -86,6 +88,8 @@ Further analysis evaluated how sales tax affects profitability across geographic
 
 ## Strategic Expansion & Channel Analysis
 
+![Dashboard Preview](images/tableau_dashboard_2.png)
+
 Additional analysis evaluated potential strategic growth opportunities and their financial and tax implications.
 
 **Amazon Marketplace:**  
@@ -99,15 +103,12 @@ These analyses positioned the company to evaluate **operational strategy alongsi
 ---
 ## Repository Structure
 ```
-Trinas-Trinkets-Tableau-Project
+E-Commerce Sales Tax Nexus & Profitability Dashboard
 │
 ├── dashboard
 │ └── Tableau dashboard file (.twbx)
 │
-├── docs
-│ └── Full project report and analysis
-│
-├── pictures
+├── images
 │ └── Dashboard screenshots and visualizations
 │
 └── README.md
