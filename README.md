@@ -121,11 +121,11 @@ These analyses positioned the company to evaluate **operational strategy alongsi
 ```
 E-Commerce Sales Tax Nexus & Profitability Dashboard
 │
-├── dashboard
-│ └── Tableau dashboard file (.twbx)
-│
 ├── images
 │ └── Dashboard screenshots and visualizations
+|
+├── prep
+│ └── Tableau Prep Files (.tlfx)
 │
 └── README.md
 ```
